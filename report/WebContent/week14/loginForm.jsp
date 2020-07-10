@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -29,8 +29,8 @@
   </div>
   
   
-  <input class="btn btn-primary" type ="submit" value = "확인">
-  <input class="btn btn-primary" type ="reset" value = "다시 작성">
+  <input class="btn btn-primary" type ="submit" value = "로그인">
+  <input class="btn btn-primary" type ="reset" value = "재작성">
  </form>
  </div>
 
